@@ -2,7 +2,7 @@
 #include <stddef.h>
 
 /**
- * int binary_to_uint - a function that converts a
+ * binary_to_uint - a function that converts a
  * binary number to an unsigned int
  * @b: binary number to convert to unsigned int
  *
